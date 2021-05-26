@@ -1,7 +1,11 @@
 {
   "name": "ehmjeydub",
   "version": "1.0.0",
+  "description": "Get to know MJ via `npx ehmjeydub`",
   "bin": {
-    "ehmjeydub": "index.js"
+    "ehmjeydub": "index.mjs"
+  },
+  "dependencies": {
+    "cli-welcome": "^2.2.2"
   }
 }
