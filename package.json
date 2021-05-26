@@ -7,5 +7,11 @@
   },
   "dependencies": {
     "cli-welcome": "^2.2.2"
-  }
+  },
+  "keywords": [
+    "mjw",
+    "michael wojcik",
+    "wojcik",
+    "michael john wojcik"
+  ]
 }
