@@ -13,5 +13,12 @@
     "michael wojcik",
     "wojcik",
     "michael john wojcik"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.mjs",
+  "repository": "michael-wojcik/ehmjeydub",
+  "author": {
+    "name": "Michael 'MJ' Wojcik",
+    "url": "https://michaelwojcik.org"
+  }
 }
